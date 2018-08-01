@@ -1,0 +1,52 @@
+
+
+#tabla2{
+	width: 100% !important;
+}
+.tabbable-line>.tab-content {
+    padding: 0px 0 !important;
+}
+label[for="text"]{
+	float: left;
+	left: 5px;
+	color: #000;
+    font-weight: bold;
+    font-size: 21px;
+}
+.form-control-buscar{
+	width: 30%;
+	float: left;
+	margin-left: 13px;
+	height: 36px;
+	text-align: center;
+}
+.consultar{
+	float: right;
+	margin-right: 2px;
+	border-radius: 8px !important;
+	padding: 5px;
+    width: 10%;
+   
+}
+.bg-font-red-thunderbird {
+    color: #8c7878!important;
+}
+.bg-red-thunderbird {
+    background: #e1e5ec!important;
+}
+#tabla2_wrapper {
+
+}
+#tabla2 thead{
+	background-color: #5f9fe7 !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    border: 1px solid !important;
+}
+.tabbable-line>.nav-tabs>li.open, .tabbable-line>.nav-tabs>li:hover {
+    border-bottom: 4px solid #5f9fe7 !important;
+}
+.tabbable-line>.nav-tabs>li.active {
+    border-bottom: 4px solid #5f9fe7 !important;
+}
+/**/
